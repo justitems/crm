@@ -37,6 +37,16 @@ Until february i'm going to release at least 10 chatbots for the CRM Apps direct
 
 <br>
 
+<h4>Documentation</h4>
+<p>The documentation is very big and it is grouped by category:</p>
+<ul>
+    <li>Installation/Configuration: https://www.midrub.com/categories/crm-4</li>
+    <li>About/Development: https://www.midrub.com/categories/crm</li>
+    <li>Usge: https://www.midrub.com/categories/crm-2</li>
+</ul>
+
+<br>
+
 <h4>Updates</h4>
 <p>You could get updates with a click from the administrator panel. You could create your own apps for the CRM and provide updates in same way. The updates are providing from Dropbox or Google Drive. Ensure your server don't has resctrions for these.</p>
 
