@@ -1,5 +1,5 @@
 {
-    "version": "Version 0.0.4",
-    "changelogs": "Improved the quick menu.",
-    "url": "https://drive.google.com/uc?export=download&id=17rfpIunmo1B70-fQ9yFvMgzY1qqdU82q"
+    "version": "Version 0.0.5",
+    "changelogs": "<p>Fixed some bugs in CSS.<\/p>\r\n<p>Added support for PHP version 8+.<\/p>",
+    "url": "https://drive.google.com/uc?export=download&id=1Gv0IKr9lDttaKl3nwYcZl18GD3y9CFgH"
 }
