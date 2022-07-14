@@ -1,5 +1,5 @@
 {
-    "version": "Version 0.1.4",
-    "changelogs": "<p>Added a hook for the user time zone. Now the apps are notified when the user changes the time zone.<\/p>\r\n<p>Changed the upload files library link.<\/p>",
-    "url": "https://drive.google.com/uc?export=download&id=1ZsszCqXvLUDScLnGLvvQnN1fjwbVzMs2"
+    "version": "Version 0.1.5",
+    "changelogs": "<p>Fixed the pagination in the Networks page.<\/p>",
+    "url": "https://drive.google.com/uc?export=download&id=1S_uSfb-g5t-45RbAnWxTW7arDMq6UlH_"
 }
