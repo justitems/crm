@@ -1,5 +1,5 @@
 {
-    "version": "Version 0.0.7",
-    "changelogs": "<p>Improvements in the search. New hook.<\/p>",
-    "url": "https://drive.google.com/uc?export=download&id=1IptcyhcNg-GTp8AXcdgweVFff8MZldpo"
+    "version": "Version 0.0.8",
+    "changelogs": "<p>Added support for PHP 8.0+.<\/p>",
+    "url": "https://drive.google.com/uc?export=download&id=1A4raWHoU19ca3-jtzTLrcdDGSdNbwtIP"
 }
