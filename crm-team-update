@@ -1,5 +1,5 @@
 {
-    "version": "Version 0.0.8",
-    "changelogs": "Added support for PHP 8.0+.",
-    "url": "https://drive.google.com/uc?export=download&id=1l2YIILp_1JF9HnncGKhtMCkNHtfSSIuC"
+    "version": "Version 0.0.9",
+    "changelogs": "<p>Added support for PHP 8.0+.<\/p>\r\n<p>Many improvements and bugs fixes.<\/p>",
+    "url": "https://drive.google.com/uc?export=download&id=1CfrDk3J_mG8BgseeACsLSrh8JkBOaShC"
 }
