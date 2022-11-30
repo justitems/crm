@@ -1,5 +1,5 @@
 {
-    "version": "Version 0.1.7",
-    "changelogs": "<p>Added support for PHP 8.0+.<\/p>",
-    "url": "https://drive.google.com/uc?export=download&id=1GF5vG53aS6-868kBBsun7uqIKOPmwVYa"
+    "version": "Version 0.1.8",
+    "changelogs": "<p>Added many time zones. The time zone should be selected again.<\/p>",
+    "url": "https://drive.google.com/uc?export=download&id=1vL0ibU3VbxUyQ5co8VxPMANODU5f8dYs"
 }
